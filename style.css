@@ -7,6 +7,7 @@ body {
     background-color: darkorange;
     font-size: 16px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
 }
 
 nav {
@@ -32,6 +33,7 @@ nav {
     font-size: 1rem;
     line-height: 2rem;
     background-color: navajowhite;
+    color: black;
     border: 0.1rem solid;
     border-radius: 0.3rem;
     box-shadow: 0 0.3rem 0.6rem rgba(0, 0, 0, 0.1);
